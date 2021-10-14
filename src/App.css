@@ -1,0 +1,11 @@
+#image{
+width: 25vw;
+height: 255px;
+}
+.main_div{
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  justify-content: flex-start;
+  width: 100%;
+}
